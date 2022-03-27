@@ -1,0 +1,30 @@
+.menu{
+    position: fixed;
+    display:inline;
+}
+
+.block{
+    margin-left: 20px;
+}
+
+.textBlock{
+    position: absolute;
+    display:inline;
+}
+
+h1{
+    text-align: center;
+}
+
+a:link{
+    color:black;
+}
+a:active{
+    color:black;
+}
+a:hover{
+    color:black;
+}
+a:visited{
+    color:black;
+}
